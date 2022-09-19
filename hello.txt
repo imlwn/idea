@@ -12,3 +12,4 @@ hello git!
 hello git!
 hello world!
 hot-fix test
+hot-fix test!
