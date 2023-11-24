@@ -13,3 +13,4 @@ hello git
 vincy love moonfan
 moonfan love vincy
 hot-fix commit
+master first commit
