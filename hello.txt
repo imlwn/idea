@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hello atguigu
 hello git
 hello atguigu
@@ -17,7 +16,6 @@ hot-fix commit
 master first commit
 hot-fix second commit
 hello git
-=======
 hello git!
 hello git!
 hello git!
@@ -34,4 +32,3 @@ hello world!
 hot-fix test
 hot-fix test!
 wo shi zui mei de
->>>>>>> 54897109700a46dcd0b8c71d2119a6887d2d216a
